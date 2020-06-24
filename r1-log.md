@@ -9,3 +9,4 @@ Weeks ago, I started to study and build a website using vue.js. And today I begi
 Today I make my own custom form validation for my sign up page. Vee-validate gave me a hard time to import.
 
 ### R1D2
+Today I solve my problem and clean my code on my custom form validation. I also add some CSS to it. I learn a lot.

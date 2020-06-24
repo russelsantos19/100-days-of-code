@@ -9,14 +9,14 @@
 
 **Link to work:** [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 2: June 24, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I solve my problem and clean my code on form validation. I also add some css to it.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I learn a lot and understand more about css positioning
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
 ### Day 1: June 27, Monday
