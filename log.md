@@ -19,12 +19,11 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
-### Day 1: June 27, Monday
+### Day 3: June 25, 2020 Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I almost finish the sign-up page. I finish the form validation and design it in css.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I made great progress today because my mentor taught me and correct my faults and wrong attitudes in coding. It's almost finished I just have to clear some code and design.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
