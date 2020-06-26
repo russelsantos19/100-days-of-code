@@ -27,3 +27,11 @@
 
 **Link(s) to work**
 1. [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+### Day 4: June 26, 2020 Friday
+
+**Today's Progress**: Today I put an option sign-up with Facebook, Google, etc in my Sign-up Page.
+
+**Thoughts**: I need to study more and css and design.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

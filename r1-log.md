@@ -13,3 +13,6 @@ Today I solve my problem and clean my code on my custom form validation. I also 
 
 ### R1D3
 I made great progress today because my mentor taught me and correct my faults and wrong attitudes in coding. Today I'd be able to rapidly finish the sign-up page as it should be. It's almost finished I just have to clear some code and design.
+
+### R1D4
+Today I put an option sign-up with Facebook, Google, etc in my Sign-up Page.
