@@ -16,3 +16,6 @@ I made great progress today because my mentor taught me and correct my faults an
 
 ### R1D4
 Today I put an option sign-up with Facebook, Google, etc in my Sign-up Page.
+
+### R1D5
+Today I design and finish the sign-up page.

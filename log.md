@@ -35,3 +35,11 @@
 **Thoughts**: I need to study more and css and design.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+### Day 5: June 27, 2020 Saturday
+
+**Today's Progress**: Today I design and finish the sign-up page.
+
+**Thoughts**: I have to clear it's design by using the right font and putting right spaces. I had to study about API, maybe, and singning in throught social network.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
