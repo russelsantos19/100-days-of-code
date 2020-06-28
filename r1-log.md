@@ -19,3 +19,7 @@ Today I put an option sign-up with Facebook, Google, etc in my Sign-up Page.
 
 ### R1D5
 Today I design and finish the sign-up page.
+
+
+### R1D6
+Today I start to build the log-in page with vue.js.

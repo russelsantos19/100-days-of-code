@@ -28,6 +28,7 @@
 **Link(s) to work**
 1. [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
 ### Day 4: June 26, 2020 Friday
 
 **Today's Progress**: Today I put an option sign-up with Facebook, Google, etc in my Sign-up Page.
@@ -36,10 +37,20 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
 ### Day 5: June 27, 2020 Saturday
 
 **Today's Progress**: Today I design and finish the sign-up page.
 
 **Thoughts**: I have to clear it's design by using the right font and putting right spaces. I had to study about API, maybe, and singning in throught social network.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 6: June 27, 2020 Sunday
+
+**Today's Progress**: Today I start to build the log-in page with vue.js.
+
+**Thoughts**: There are many codes uploaded online, you can just copy paste it and edit necessary code and design based on your preference. That's what I did today. And I also learn about making a line in css. It's fun.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
