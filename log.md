@@ -54,3 +54,13 @@
 **Thoughts**: There are many codes uploaded online, you can just copy paste it and edit necessary code and design based on your preference. That's what I did today. And I also learn about making a line in css. It's fun.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 7: June 28, 2020 Monday
+
+**Today's Progress**: Today I learn a lot especially in using git. I show to my mentor/leader my sign up page and I make a pull request and he merged it to the master repo of the project that we are building. I also design the log-in page.
+
+**Thoughts**: Do not commit different projects at the same time. Commit only the projects/codes related to each other and related to the commit description.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+

@@ -20,6 +20,8 @@ Today I put an option sign-up with Facebook, Google, etc in my Sign-up Page.
 ### R1D5
 Today I design and finish the sign-up page.
 
-
 ### R1D6
 Today I start to build the log-in page with vue.js.
+
+### R1D7
+Today I learn a lot especially in using git. I show to my mentor/leader my sign up page and I make a pull request and he merged it to the master repo of the project that we are building. I also design the log-in page.
