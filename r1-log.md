@@ -25,3 +25,6 @@ Today I start to build the log-in page with vue.js.
 
 ### R1D7
 Today I learn a lot especially in using git. I show to my mentor/leader my sign up page and I make a pull request and he merged it to the master repo of the project that we are building. I also design the log-in page.
+
+### R1D8
+Today I continue building the log-in page.  And I think I can finish it tomorrow

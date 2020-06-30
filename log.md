@@ -64,3 +64,13 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 8: June 28, 2020 Monday
+
+**Today's Progress**: Today I continue building the log-in page.  And I think I can finish it tomorrow.
+
+**Thoughts**:  My excitement increases every day as I build my first website. It was challenging but satisfying. It's a joy and honor to become a developer.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
