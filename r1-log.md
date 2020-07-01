@@ -28,3 +28,6 @@ Today I learn a lot especially in using git. I show to my mentor/leader my sign 
 
 ### R1D8
 Today I continue building the log-in page.  And I think I can finish it tomorrow
+
+### R1D9
+Today I finished the responsive log-in page and add some vue.js code.
