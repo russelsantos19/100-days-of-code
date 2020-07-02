@@ -83,3 +83,13 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
+### Day 10: July 02, 2020 Thursday
+
+**Today's Progress**: Today, I show my work to my mentor and he tells me things I need to change in my project. So I revise my code. And I tried to make my project a single page application.
+
+**Thoughts**: Salute to people who give time to share their knowledge.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+

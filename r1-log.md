@@ -31,3 +31,6 @@ Today I continue building the log-in page.  And I think I can finish it tomorrow
 
 ### R1D9
 Today I finished the responsive log-in page and add some vue.js code.
+
+### R1D10
+Today, I show my work to my mentor and he tells me things I need to change in my project. So I revise my code. And I tried to make my project a single page application.
