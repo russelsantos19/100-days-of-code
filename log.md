@@ -92,4 +92,10 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
+### Day 11: July 03, 2020 Friday
 
+**Today's Progress**: Today, I converted my project to SFC(Single File Component). It gives me a hard time and I encountered a lot of errors. I want to use a vue-router to navigate in my components.
+
+**Thoughts**: Someday, I hope I will be better.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

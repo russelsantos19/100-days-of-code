@@ -34,3 +34,6 @@ Today I finished the responsive log-in page and add some vue.js code.
 
 ### R1D10
 Today, I show my work to my mentor and he tells me things I need to change in my project. So I revise my code. And I tried to make my project a single page application.
+
+### R1D11
+Today, I converted my project to SFC(Single File Component). It gives me a hard time and I encountered a lot of errors. I want to use a vue-router to navigate in my components.
