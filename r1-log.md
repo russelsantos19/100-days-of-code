@@ -37,3 +37,6 @@ Today, I show my work to my mentor and he tells me things I need to change in my
 
 ### R1D11
 Today, I converted my project to SFC(Single File Component). It gives me a hard time and I encountered a lot of errors. I want to use a vue-router to navigate in my components.
+
+### R1D11
+Today I take a break and I just give an hour in fixing errors in my code. Fixing some unknown errors is really time-consuming but today I see the error.

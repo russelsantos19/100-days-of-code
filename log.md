@@ -99,3 +99,12 @@
 **Thoughts**: Someday, I hope I will be better.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 12: July 04, 2020 Saturday
+
+**Today's Progress**: Today I take a break and I just give an hour in fixing errors in my code.
+
+**Thoughts**: Fixing some unknown errors is really time-consuming but today I see the error.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
