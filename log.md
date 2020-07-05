@@ -108,3 +108,12 @@
 **Thoughts**: Fixing some unknown errors is really time-consuming but today I see the error.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 13: July 05, 2020 Sunday
+
+**Today's Progress**: I finish my sign-in and sign up pages using vue.js and make a tab to toggle between the two.
+
+**Thoughts**: I'm so happy and it was satisfying to solve a problem and build a project. Many more projects to come!
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
