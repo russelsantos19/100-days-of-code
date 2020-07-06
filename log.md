@@ -117,3 +117,14 @@
 **Thoughts**: I'm so happy and it was satisfying to solve a problem and build a project. Many more projects to come!
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 14: July 06, 2020 Monday
+
+**Today's Progress**: Today I clean and finalize my code and design of sign-in and sign-up page. And make a final commit it and push it.Tomorrow I'll show it to my mentor and make a pull request to the master repository.
+
+**Thoughts**: Focus more on solving problem than knowing unrelated things.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+

@@ -43,3 +43,6 @@ Today I take a break and I just give an hour in fixing errors in my code. Fixing
 
 ### R1D13
 I'm so happy today because I finish my sign-in and sign up pages using vue.js and make a tab to toggle between the two. It was satisfying to solve a problem and build a project. Many more projects to come!
+
+### R1D14
+Today I clean and finalize my code and design of sign-in and sign-up page. And make a final commit it and push it.Tomorrow I'll show it to my mentor and make a pull request to the master repository.
