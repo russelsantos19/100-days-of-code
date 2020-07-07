@@ -46,3 +46,6 @@ I'm so happy today because I finish my sign-in and sign up pages using vue.js an
 
 ### R1D14
 Today I clean and finalize my code and design of sign-in and sign-up page. And make a final commit it and push it.Tomorrow I'll show it to my mentor and make a pull request to the master repository.
+
+### R1D15
+Today I show my code to my mentor and he suggests things I need to change in my design. So I change my design and make it more simple and easy to understand for the end-user. I thank God for my mentor!
