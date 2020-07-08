@@ -136,3 +136,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 16: July 08, 2020 Wednesday
+
+**Today's Progress**: I accomplished a little today. I just study on vuex and on how can I link two different vue.js components in my project. I learn something and code little.
+
+**Thoughts**: I wish I could be faster these following days.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

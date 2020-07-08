@@ -49,3 +49,6 @@ Today I clean and finalize my code and design of sign-in and sign-up page. And m
 
 ### R1D15
 Today I show my code to my mentor and he suggests things I need to change in my design. So I change my design and make it more simple and easy to understand for the end-user. I thank God for my mentor!
+
+### R1D16
+I accomplished a little today. I just study on vuex and on how can I link two different vue.js components in my project. I learn something and code little. I wish I could be faster these following days.
