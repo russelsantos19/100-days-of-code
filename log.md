@@ -144,3 +144,12 @@
 **Thoughts**: I wish I could be faster these following days.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 17: July 09, 2020 Thursday
+
+**Today's Progress**: Today I learn a lot on how to pass data between components and that is through props and emitting custom events. I finally solve the problem in my code.
+
+**Thoughts**: Solving a problem is really one of the happiest things in programming.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

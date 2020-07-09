@@ -52,3 +52,6 @@ Today I show my code to my mentor and he suggests things I need to change in my 
 
 ### R1D16
 I accomplished a little today. I just study on vuex and on how can I link two different vue.js components in my project. I learn something and code little. I wish I could be faster these following days.
+
+### R1D17
+Today I learn a lot on how to pass data between components and that is through props and emitting custom events. I finally solve the problem in my code and this is really one of the happiest things in programming.
