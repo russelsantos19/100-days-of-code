@@ -153,3 +153,12 @@
 **Thoughts**: Solving a problem is really one of the happiest things in programming.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 18: July 10, 2020 Friday
+
+**Today's Progress**: Today I finalize and clean the code and design in my simple sign-in/sign-up page based on what my mentor told me. I also created a close button.
+
+**Thoughts**:  What a great day, I learn a lot. Tomorrow I plan to begin the side menu for my website.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

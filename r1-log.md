@@ -55,3 +55,6 @@ I accomplished a little today. I just study on vuex and on how can I link two di
 
 ### R1D17
 Today I learn a lot on how to pass data between components and that is through props and emitting custom events. I finally solve the problem in my code and this is really one of the happiest things in programming.
+
+### R1D18
+Today I finalize and clean the code and design in my simple sign-in/sign-up page based on what my mentor told me. I also created a close button. What a great day, I learn a lot. Tomorrow I plan to begin the side menu for my website.
