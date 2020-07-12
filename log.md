@@ -162,3 +162,13 @@
 **Thoughts**:  What a great day, I learn a lot. Tomorrow I plan to begin the side menu for my website.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 19: July 12, 2020 Sunday
+
+**Today's Progress**: Today I began the side menu of my website and I'll try to finish it tomorrow.
+
+**Thoughts**:  I'll try to finish this project website before the end of this challenge. I really learn a lot not just by watching, not by reading, but by coding.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+

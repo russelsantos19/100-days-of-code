@@ -58,3 +58,7 @@ Today I learn a lot on how to pass data between components and that is through p
 
 ### R1D18
 Today I finalize and clean the code and design in my simple sign-in/sign-up page based on what my mentor told me. I also created a close button. What a great day, I learn a lot. Tomorrow I plan to begin the side menu for my website.
+
+### R1D19
+Today I began the side menu of my website and I'll try to finish it tomorrow. I'll try to finish this project website before the end of this challenge. I really learn a lot not just by watching, not by reading, but by coding.
+
