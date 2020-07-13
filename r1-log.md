@@ -62,3 +62,5 @@ Today I finalize and clean the code and design in my simple sign-in/sign-up page
 ### R1D19
 Today I began the side menu of my website and I'll try to finish it tomorrow. I'll try to finish this project website before the end of this challenge. I really learn a lot not just by watching, not by reading, but by coding.
 
+### R1D20
+Today, my pull request was approved by my mentor. I also code the side menu for my website and it's almost finished. I learn something, especially about vue.js class and style binding.

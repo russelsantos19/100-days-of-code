@@ -172,3 +172,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 20: July 13, 2020 Monday
+
+**Today's Progress**: Today, my pull request was approved by my mentor. I also code the side menu for my website and it's almost finished.
+
+**Thoughts**:  I learn something, especially about vue.js class and style binding.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
