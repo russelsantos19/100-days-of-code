@@ -180,3 +180,12 @@
 **Thoughts**:  I learn something, especially about vue.js class and style binding.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 21: July 14, 2020 Tuesday
+
+**Today's Progress**: Today I finished the side-menu for my website. It's really fun to solve a problem and finished a project.
+
+**Thoughts**:   By the grace of God, I enjoy what I'm doing. This is my 3rd week and 100 days of code really helped me to code every day.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

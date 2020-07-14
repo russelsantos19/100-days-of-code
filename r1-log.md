@@ -64,3 +64,7 @@ Today I began the side menu of my website and I'll try to finish it tomorrow. I'
 
 ### R1D20
 Today, my pull request was approved by my mentor. I also code the side menu for my website and it's almost finished. I learn something, especially about vue.js class and style binding.
+
+### R1D21
+Today I finished the side-menu for my website. It's really fun to solve a problem and finished a project. By the grace of God, I enjoy what I'm doing. This is my 3rd week and 100 days of code really helped me to code every day.
+
