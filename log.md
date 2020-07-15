@@ -189,3 +189,13 @@
 **Thoughts**:   By the grace of God, I enjoy what I'm doing. This is my 3rd week and 100 days of code really helped me to code every day.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 22: July 15, 2020 Wednesday
+
+**Today's Progress**: I'd be able to code a little today because I became busy in my sideline. But I'd be able to design some of the elements in my project.
+
+**Thoughts**:   I learn and happy to know more about style binding in vue.js. It's really great to know it. I want to show this project website to everyone when it is finished.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
