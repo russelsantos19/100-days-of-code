@@ -70,3 +70,6 @@ Today I finished the side-menu for my website. It's really fun to solve a proble
 
 ### R1D22
 I'd be able to code a little today because I became busy in my sideline. But I'd be able to design some of the elements in my project.
+
+### R1D23
+I learn a lot today and update the code and design of the side navigation of my project website. I'll surely show this website to everyone once it's finished.

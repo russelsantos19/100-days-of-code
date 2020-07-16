@@ -199,3 +199,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 23: July 16, 2020 Thursday
+
+**Today's Progress**: I learn a lot today and update the code and design of the side navigation of my project website.
+
+**Thoughts**:   I'll surely show this website to everyone once it's finished.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
