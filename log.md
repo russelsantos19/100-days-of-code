@@ -207,3 +207,12 @@
 **Thoughts**:   I'll surely show this website to everyone once it's finished.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 24: July 17, 2020 Friday
+
+**Today's Progress**: Today I put tiny lines between tabs and set white-space to no-wrap in CSS.
+
+**Thoughts**:   I'm not so great in design but I think simplicity is beauty.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

@@ -73,3 +73,6 @@ I'd be able to code a little today because I became busy in my sideline. But I'd
 
 ### R1D23
 I learn a lot today and update the code and design of the side navigation of my project website. I'll surely show this website to everyone once it's finished.
+
+### R1D24
+Today I put tiny lines between tabs and set white-space to no-wrap in CSS. I'm not so great in design but I think simplicity is beauty.
