@@ -76,3 +76,7 @@ I learn a lot today and update the code and design of the side navigation of my 
 
 ### R1D24
 Today I put tiny lines between tabs and set white-space to no-wrap in CSS. I'm not so great in design but I think simplicity is beauty.
+
+### R1D25
+Today I study and design my project. I learn more about the power of flexbox in CSS. It is a time-saver and very useful in making a responsive web page.
+

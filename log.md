@@ -216,3 +216,12 @@
 **Thoughts**:   I'm not so great in design but I think simplicity is beauty.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 25: July 18, 2020 Saturday
+
+**Today's Progress**: Today I study and design my project.
+
+**Thoughts**:   I learn more about the power of flexbox in CSS. It is a time-saver and very useful in making a responsive web page.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
