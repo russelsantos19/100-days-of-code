@@ -80,3 +80,5 @@ Today I put tiny lines between tabs and set white-space to no-wrap in CSS. I'm n
 ### R1D25
 Today I study and design my project. I learn more about the power of flexbox in CSS. It is a time-saver and very useful in making a responsive web page.
 
+### R1D26
+I take a break today but code a little to fulfill my duty to code daily. #100DaysOfCode really put coding into my daily routine. I just add a design to my website and some arrow icon that shows to the tab you selected.

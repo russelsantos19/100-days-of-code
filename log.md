@@ -225,3 +225,12 @@
 **Thoughts**:   I learn more about the power of flexbox in CSS. It is a time-saver and very useful in making a responsive web page.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 26: July 19, 2020 Sunday
+
+**Today's Progress**: I take a break today but code a little to fulfill my duty to code daily. I just add a design to my website and some arrow icon that shows to the tab you selected.
+
+**Thoughts**:   100 Days Of Code really put coding into my daily routine.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
