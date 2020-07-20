@@ -234,3 +234,13 @@
 **Thoughts**:   100 Days Of Code really put coding into my daily routine.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+
+### Day 27: July 20, 2020 Monday
+
+**Today's Progress**: I'm so glad today because it's my first time deploying my projects on the web. I used #netlify. Here's the link to the projects I built in freecodecamp: https://russel.netlify.app
+
+**Thoughts**:   I'm so excited this week. I want to deploy my current project on the web but I'll rest early today to change my routine time from night to morning.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

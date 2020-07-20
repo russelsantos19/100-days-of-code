@@ -82,3 +82,6 @@ Today I study and design my project. I learn more about the power of flexbox in 
 
 ### R1D26
 I take a break today but code a little to fulfill my duty to code daily. #100DaysOfCode really put coding into my daily routine. I just add a design to my website and some arrow icon that shows to the tab you selected.
+
+### R1D27
+I'm so glad today because it's my first time deploying my projects on the web. I used #netlify. Here's the link to the projects I built in freecodecamp: https://russel.netlify.app
