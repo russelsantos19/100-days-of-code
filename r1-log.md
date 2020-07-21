@@ -85,3 +85,6 @@ I take a break today but code a little to fulfill my duty to code daily. #100Day
 
 ### R1D27
 I'm so glad today because it's my first time deploying my projects on the web. I used #netlify. Here's the link to the projects I built in freecodecamp: https://russel.netlify.app
+
+### R1D28
+Today I redesign my project and add some icon on the side menu and the definition will appear when you click on it. I spent only two hours today. I learn a lot and enjoy it.

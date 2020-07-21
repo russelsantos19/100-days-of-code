@@ -244,3 +244,15 @@
 **Thoughts**:   I'm so excited this week. I want to deploy my current project on the web but I'll rest early today to change my routine time from night to morning.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+
+
+### Day 28: July 21, 2020 Tuesday
+
+**Today's Progress**: Today I redesign my project and add some icon on the side menu and the definition will appear when you click on it. I spent only two hours today. I learn a lot and enjoy it.
+
+**Thoughts**:   I'll upload my vets stem on netlify.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
