@@ -88,3 +88,6 @@ I'm so glad today because it's my first time deploying my projects on the web. I
 
 ### R1D28
 Today I redesign my project and add some icon on the side menu and the definition will appear when you click on it. I spent only two hours today. I learn a lot and enjoy it.
+
+### R1D29
+Today I spent nearly 4 hours in coding. And this is the final design of the side-menu(I think). I can't believe that it looks simple but it took me days to finish it. Maybe I need to give more hours a day in coding. Time for content!

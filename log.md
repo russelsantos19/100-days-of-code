@@ -236,7 +236,6 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
-
 ### Day 27: July 20, 2020 Monday
 
 **Today's Progress**: I'm so glad today because it's my first time deploying my projects on the web. I used #netlify. Here's the link to the projects I built in freecodecamp: https://russel.netlify.app
@@ -246,13 +245,20 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
-
-
 ### Day 28: July 21, 2020 Tuesday
 
 **Today's Progress**: Today I redesign my project and add some icon on the side menu and the definition will appear when you click on it. I spent only two hours today. I learn a lot and enjoy it.
 
 **Thoughts**:   I'll upload my vets stem on netlify.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 29: July 22, 2020 Wednesday
+
+**Today's Progress**: Today I spent nearly 4 hours in coding. And this is the final design of the side-menu(I think). 
+
+**Thoughts**:   I can't believe that it looks simple but it took me days to finish it. Maybe I need to give more hours a day in coding. Time for content!
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
