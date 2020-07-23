@@ -238,11 +238,11 @@
 
 ### Day 27: July 20, 2020 Monday
 
-**Today's Progress**: I'm so glad today because it's my first time deploying my projects on the web. I used #netlify. Here's the link to the projects I built in freecodecamp: https://russel.netlify.app
+**Today's Progress**: I'm so glad today because it's my first time deploying my projects on the web. I used #netlify.
 
 **Thoughts**:   I'm so excited this week. I want to deploy my current project on the web but I'll rest early today to change my routine time from night to morning.
 
-**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+**Link(s) to work**: https://russel.netlify.app
 
 
 ### Day 28: July 21, 2020 Tuesday
@@ -262,3 +262,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 30: July 23, 2020 Thursday
+
+**Today's Progress**: Today I made a pull request of my code. I made a git rebase first to squash my commits to one. I learn more about origin, upstream, fetch, pull, etc in git.
+
+**Thoughts**:   It's fun and I'm getting more familiar with git. Tom. I'll begin a new project
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

@@ -91,3 +91,6 @@ Today I redesign my project and add some icon on the side menu and the definitio
 
 ### R1D29
 Today I spent nearly 4 hours in coding. And this is the final design of the side-menu(I think). I can't believe that it looks simple but it took me days to finish it. Maybe I need to give more hours a day in coding. Time for content!
+
+### R1D30
+Today I made a pull request of my code. I made a git rebase first to squash my commits to one. I learn more about origin, upstream, fetch, pull, etc in git. It's fun and I'm getting more familiar with it. Tom. I'll begin a new project.
