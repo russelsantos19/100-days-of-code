@@ -270,3 +270,12 @@
 **Thoughts**:   It's fun and I'm getting more familiar with git. Tom. I'll begin a new project
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 31: July 24, 2020 Friday
+
+**Today's Progress**: More Git and Github stuff today. Because I had to change the remote repository I fork from. And it takes me some time. But I learn something, especially in ssh and https in git.
+
+**Thoughts**:   It's fun that I converted my git from https to ssh. Tomorrow I plan to begin the profile creation page.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

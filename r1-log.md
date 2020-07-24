@@ -94,3 +94,7 @@ Today I spent nearly 4 hours in coding. And this is the final design of the side
 
 ### R1D30
 Today I made a pull request of my code. I made a git rebase first to squash my commits to one. I learn more about origin, upstream, fetch, pull, etc in git. It's fun and I'm getting more familiar with it. Tom. I'll begin a new project.
+
+
+### R1D31
+More Git and Github stuff today. Because I had to change the remote repository I fork from. And it takes me some time. But I learn something, especially in ssh and https in git. Tomorrow I plan to begin the profile creation page.
