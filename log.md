@@ -279,3 +279,12 @@
 **Thoughts**:   It's fun that I converted my git from https to ssh. Tomorrow I plan to begin the profile creation page.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 32: July 26, 2020 Sunday
+
+**Today's Progress**: Today I begin the profile creation page for my website.
+
+**Thoughts**:   Though I want to code straight for 100 days, I take a break yesterday cause I believe it is important not just for my productivity but also for my myself.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
