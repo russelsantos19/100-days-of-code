@@ -100,3 +100,6 @@ More Git and Github stuff today. Because I had to change the remote repository I
 
 ### R1D32
 Though I want to code straight for 100 days, I take a break yesterday cause I believe it is important not just for my productivity but also for my myself. Today I begin the profile creation page for my website.
+
+### R1D33
+Today I began to write the HTML of my new project and figure out its design.

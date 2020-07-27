@@ -288,3 +288,12 @@
 **Thoughts**:   Though I want to code straight for 100 days, I take a break yesterday cause I believe it is important not just for my productivity but also for my myself.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 33: July 27, 2020 Monday
+
+**Today's Progress**: Today I began to write the HTML of my new project and figure out its design.
+
+**Thoughts**:   I'll adjust my coding hours in the morning and sleep early today.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
