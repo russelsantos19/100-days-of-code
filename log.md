@@ -297,3 +297,11 @@
 **Thoughts**:   I'll adjust my coding hours in the morning and sleep early today.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+### Day 34: July 28, 2020 Tuesday
+
+**Today's Progress**: I spend a little time today and continue to build my profile creation page. 
+
+**Thoughts**:   I need to renew my thought and focus and be motivated again.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

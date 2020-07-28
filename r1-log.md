@@ -103,3 +103,6 @@ Though I want to code straight for 100 days, I take a break yesterday cause I be
 
 ### R1D33
 Today I began to write the HTML of my new project and figure out its design.
+
+### R1D34
+I spend a little time today and continue to build my profile creation page. I need to renew my thought and focus and be motivated again.
