@@ -106,3 +106,9 @@ Today I began to write the HTML of my new project and figure out its design.
 
 ### R1D34
 I spend a little time today and continue to build my profile creation page. I need to renew my thought and focus and be motivated again.
+
+### R1D35
+Today I encountered a problem in using v-bind in src attribute in img tag that paralyzed me. I envy those people who made a lot of progress in a day. May the spirit of hard work and discipline be upon me. Tomorrow is another day.
+
+### R1D36
+I'm so happy & satisfied. I finally solved my problem in using v-bind in src attribute in img tag. I just import the image from assets and defined its width in CSS. I can now upload and display an image.

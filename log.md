@@ -298,10 +298,29 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
 ### Day 34: July 28, 2020 Tuesday
 
 **Today's Progress**: I spend a little time today and continue to build my profile creation page. 
 
 **Thoughts**:   I need to renew my thought and focus and be motivated again.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 35: July 29, 2020 Wednesday
+
+**Today's Progress**: Today I encountered a problem in using v-bind in src attribute in img tag that paralyzed me.
+
+**Thoughts**:    I envy those people who made a lot of progress in a day. May the spirit of hard work and discipline be upon me. Tomorrow is another day.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 36: July 30, 2020 Thursday
+
+**Today's Progress**:  I finally solved my problem in using v-bind in src attribute in img tag. I just import the image from assets and defined its width in CSS. I can now upload and display an image.
+
+**Thoughts**:    I'm so happy & satisfied. I'm getting excited now and I can now move on to the next chapter of this page.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
