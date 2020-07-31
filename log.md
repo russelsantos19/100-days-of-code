@@ -324,3 +324,12 @@
 **Thoughts**:    I'm so happy & satisfied. I'm getting excited now and I can now move on to the next chapter of this page.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 37: July 31, 2020 Friday
+
+**Today's Progress**:  I build the javascript part of my website today and I'm getting more familiar with it.
+
+**Thoughts**:  I learned that for me to be more productive, I should plan what to do and determined my goal for the day.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

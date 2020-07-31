@@ -112,3 +112,7 @@ Today I encountered a problem in using v-bind in src attribute in img tag that p
 
 ### R1D36
 I'm so happy & satisfied. I finally solved my problem in using v-bind in src attribute in img tag. I just import the image from assets and defined its width in CSS. I can now upload and display an image.
+
+
+### R1D37
+I build the javascript part of my website today and I'm getting more familiar with it. I learned that for me to be more productive, I should plan what to do and determined my goal for the day.
