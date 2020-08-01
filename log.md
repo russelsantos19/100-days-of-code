@@ -333,3 +333,12 @@
 **Thoughts**:  I learned that for me to be more productive, I should plan what to do and determined my goal for the day.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 38: August 01, 2020 Saturday
+
+**Today's Progress**:  Today I designed the profile creation page of my website and it's nearly finished.
+
+**Thoughts**:  I'll try to finished this tomorrow. I'm getting faster and more familiar with it.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

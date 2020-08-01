@@ -116,3 +116,7 @@ I'm so happy & satisfied. I finally solved my problem in using v-bind in src att
 
 ### R1D37
 I build the javascript part of my website today and I'm getting more familiar with it. I learned that for me to be more productive, I should plan what to do and determined my goal for the day.
+
+
+### R1D38
+Today I designed the profile creation page of my website and it's nearly finished. 
