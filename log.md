@@ -342,3 +342,22 @@
 **Thoughts**:  I'll try to finished this tomorrow. I'm getting faster and more familiar with it.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 39: August 02, 2020 Sunday
+
+**Today's Progress**:  Today I finished the profile creation page of my website based on the requirements given to me.
+
+**Thoughts**:  I just need to clean my code and edit some things in design(css) and it was ready to make a pull request.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 40: August 03, 2020 Monday
+
+**Today's Progress**:  I finalized the design & clean the code of the profile creation page of my website. I set the box-shadow to inset in CSS and discover that it gives a 3-dimensional look to the form (I think Grinning face with smiling eyes).
+			Then I made a pull request to my mentor. And I learn a lot and getting more familiar and improve in CSS. I learn how to add a custom placeholder to select tag because there is no such. I also make the page responsive.
+
+**Thoughts**:  I spent 5 hours today in coding. And I see that if you want to do and finish something, your attention to time will lose. Just focus.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

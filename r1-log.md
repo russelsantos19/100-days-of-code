@@ -113,10 +113,16 @@ Today I encountered a problem in using v-bind in src attribute in img tag that p
 ### R1D36
 I'm so happy & satisfied. I finally solved my problem in using v-bind in src attribute in img tag. I just import the image from assets and defined its width in CSS. I can now upload and display an image.
 
-
 ### R1D37
 I build the javascript part of my website today and I'm getting more familiar with it. I learned that for me to be more productive, I should plan what to do and determined my goal for the day.
 
-
 ### R1D38
 Today I designed the profile creation page of my website and it's nearly finished. 
+
+### R1D39
+Today I finished the profile creation page of my website based on the requirements given to me.
+
+### R1D40
+I finalized the design & clean the code of the profile creation page of my website. I set the box-shadow to inset in CSS and discover that it gives a 3-dimensional look to the form (I think Grinning face with smiling eyes). Then I made a pull request to my mentor.
+I spent 5 hours today in coding. And I learn a lot and getting more familiar and improve in CSS. I learn how to add a custom placeholder to select tag because there is no such. I also make the page responsive.
+
