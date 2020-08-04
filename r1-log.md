@@ -126,3 +126,5 @@ Today I finished the profile creation page of my website based on the requiremen
 I finalized the design & clean the code of the profile creation page of my website. I set the box-shadow to inset in CSS and discover that it gives a 3-dimensional look to the form (I think Grinning face with smiling eyes). Then I made a pull request to my mentor.
 I spent 5 hours today in coding. And I learn a lot and getting more familiar and improve in CSS. I learn how to add a custom placeholder to select tag because there is no such. I also make the page responsive.
 
+### R1D41
+I spent 3 hours in coding today. I made some adjustments to my code. I was told to create a separate component for a select tag that had so many options and make the current component long. I connect the parent & child component using refs and emit.

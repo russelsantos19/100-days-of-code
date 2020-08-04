@@ -361,3 +361,13 @@
 **Thoughts**:  I spent 5 hours today in coding. And I see that if you want to do and finish something, your attention to time will lose. Just focus.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 41: August 04, 2020 Tuesday
+
+**Today's Progress**:  I made some adjustments to my code. I was told to create a separate component for a select tag that had so many options and make the current component long. I connect the parent & child component using refs and emit.
+
+**Thoughts**:  I spent 3 hours in coding today. I realized that the way you solved a problem is based on your knowledge on different WAYS to solve it. So I have to study deeper in vue.js and find out more ways to solve a problem.
+		I need to learn more on how to communicate parent-child relationship in components like using Bus.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
