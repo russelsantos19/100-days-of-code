@@ -371,3 +371,12 @@
 		I need to learn more on how to communicate parent-child relationship in components like using Bus.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 42: August 05, 2020 Wednesday
+
+**Today's Progress**:  I spent two nearly 2 hours today in coding. I solved my problem on how to make a date dropdown(from DATE Object) that will output correct days based on the month given. (Ex: Feb. = 28 days).
+
+**Thoughts**:  I learn something new and ANOTHER WAY to solve a problem, in #vuejs called lifecycle hooks. It's very useful. I used beforeMount to execute a function when page loads.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

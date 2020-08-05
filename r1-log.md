@@ -128,3 +128,6 @@ I spent 5 hours today in coding. And I learn a lot and getting more familiar and
 
 ### R1D41
 I spent 3 hours in coding today. I made some adjustments to my code. I was told to create a separate component for a select tag that had so many options and make the current component long. I connect the parent & child component using refs and emit.
+
+### R1D42
+I spent two nearly 2 hours today in coding. I solved my problem on how to make a date dropdown(from DATE Object) that will output correct days based on the month given. (Ex: Feb. = 28 days). I learn something in #vuejs called lifecycle hooks.
