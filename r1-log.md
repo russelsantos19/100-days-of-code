@@ -134,3 +134,6 @@ I spent two nearly 2 hours today in coding. I solved my problem on how to make a
 
 ### R1D43
 I build the date dropdown that updates the day based on the month you selected. Ex: If you select feb, it had 28days. I look on facebook date dropdown and I can input invalid date like Feb 31. Maybe they are using server side validation.
+
+### R1D44
+Another happy day because I finally solve my problem in making the date dropdown and finished revising my code.

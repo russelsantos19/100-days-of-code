@@ -389,3 +389,12 @@
 **Thoughts**:  I look on facebook date dropdown and I can input invalid date like Feb 31. Maybe they are using server side validation.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 44: August 07, 2020 Friday
+
+**Today's Progress**:  Another happy day because I finally solve my problem in making the date dropdown and finished revising my code.
+
+**Thoughts**:  I've been little bit confused in some logic(and, or, nand, nor, etc) I had to study more of it to solve another problem regarding date form validation in my project.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
