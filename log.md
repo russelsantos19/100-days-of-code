@@ -380,3 +380,12 @@
 **Thoughts**:  I learn something new and ANOTHER WAY to solve a problem, in #vuejs called lifecycle hooks. It's very useful. I used beforeMount to execute a function when page loads.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 43: August 06, 2020 Thursday
+
+**Today's Progress**:  I build the date dropdown that updates the day based on the month you selected. Ex: If you select feb, it had 28days.
+
+**Thoughts**:  I look on facebook date dropdown and I can input invalid date like Feb 31. Maybe they are using server side validation.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
