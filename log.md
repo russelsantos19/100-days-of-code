@@ -398,3 +398,12 @@
 **Thoughts**:  I've been little bit confused in some logic(and, or, nand, nor, etc) I had to study more of it to solve another problem regarding date form validation in my project.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 45: August 09, 2020 Sunday
+
+**Today's Progress**:  Today I study #veutify. I also add some form-validation. A complicated combination of 'and', 'or', 'not' gives me a hard time, and I took a review.
+
+**Thoughts**:  I'm excited to apply veautify in my project. It does not come to my mind a 'component framework' that enables you to add ready-made component.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

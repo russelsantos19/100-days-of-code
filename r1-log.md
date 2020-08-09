@@ -137,3 +137,6 @@ I build the date dropdown that updates the day based on the month you selected. 
 
 ### R1D44
 Another happy day because I finally solve my problem in making the date dropdown and finished revising my code.
+
+### R1D45
+Today I study #veutify and I'm excited to apply it in my project. I also add some form-validation. A complicated combination of 'and', 'or', 'not' gives me a hard time, and I took a review.
