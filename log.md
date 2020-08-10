@@ -404,6 +404,15 @@
 
 **Today's Progress**:  Today I study #veutify. I also add some form-validation. A complicated combination of 'and', 'or', 'not' gives me a hard time, and I took a review.
 
-**Thoughts**:  I'm excited to apply veautify in my project. It does not come to my mind a 'component framework' that enables you to add ready-made component.
+**Thoughts**:  I'm excited to apply vuetify in my project. It does not come to my mind a 'component framework' that enables you to add ready-made component.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 46: August 10, 2020 Monday
+
+**Today's Progress**:  I make my error message in form validation reactive(when the right answer was given, the error message will be removed).
+
+**Thoughts**:   I also started to realize the usefulness of #npm. A lot of components are already made you just had to install it.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

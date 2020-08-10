@@ -140,3 +140,6 @@ Another happy day because I finally solve my problem in making the date dropdown
 
 ### R1D45
 Today I study #veutify and I'm excited to apply it in my project. I also add some form-validation. A complicated combination of 'and', 'or', 'not' gives me a hard time, and I took a review.
+
+### R1D46
+I make my error message in form validation reactive(when the right answer was given, the error message will be removed). I also started to realize the usefulness of #npm. A lot of components are already made you just had to install it.
