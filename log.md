@@ -416,3 +416,12 @@
 **Thoughts**:   I also started to realize the usefulness of #npm. A lot of components are already made you just had to install it.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 47: August 11, 2020 Tuesday
+
+**Today's Progress**:  An amazing day for me cause I learn a lot today and finally solved my long-time problem regarding vue-router. I cannot use it bec. the 3.x version is not yet compatible with Vue 3. So I just updated it to 4.0 beta. I'm so happy.
+
+**Thoughts**:   I decided to take a note while studying and coding and note about evrything I learned and did. Here's what I learned today: git restore, git reset, npm update, npm outdated, software release life cycle(alpha, beta, release candidate, stable released, etc.) package.json and package-lock.json.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

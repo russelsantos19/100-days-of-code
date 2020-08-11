@@ -143,3 +143,7 @@ Today I study #veutify and I'm excited to apply it in my project. I also add som
 
 ### R1D46
 I make my error message in form validation reactive(when the right answer was given, the error message will be removed). I also started to realize the usefulness of #npm. A lot of components are already made you just had to install it.
+
+### R1D47
+An amazing day for me cause I learn a lot today and finally solved my long-time problem regarding vue-router. I cannot use it bec. the 3.x version is not yet compatible with Vue 3. So I just updated it to 4.0 beta. I'm so happy.
+
