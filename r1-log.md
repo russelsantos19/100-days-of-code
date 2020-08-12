@@ -147,3 +147,5 @@ I make my error message in form validation reactive(when the right answer was gi
 ### R1D47
 An amazing day for me cause I learn a lot today and finally solved my long-time problem regarding vue-router. I cannot use it bec. the 3.x version is not yet compatible with Vue 3. So I just updated it to 4.0 beta. I'm so happy.
 
+### R1D48
+Today I applied and used vue-router in my side-menu. Because before I just used v-show to hide and show the components. But now I understand the vue-router that it changes the URL and history. It's the right thing to do.

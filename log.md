@@ -425,3 +425,12 @@
 **Thoughts**:   I decided to take a note while studying and coding and note about evrything I learned and did. Here's what I learned today: git restore, git reset, npm update, npm outdated, software release life cycle(alpha, beta, release candidate, stable released, etc.) package.json and package-lock.json.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 48: August 12, 2020 Wednesday
+
+**Today's Progress**:  Today I applied and used vue-router in my side-menu. Because before I just used v-show to hide and show the components. But now I understand the vue-router that it changes the URL and history. It's the right thing to do.
+
+**Thoughts**:   I learned about '!important' that makes a css property priority.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
