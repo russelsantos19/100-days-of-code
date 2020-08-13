@@ -434,3 +434,12 @@
 **Thoughts**:   I learned about '!important' that makes a css property priority.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 49: August 13, 2020 Thursday
+
+**Today's Progress**:  A satisfying and productive day. I finally finished another project. I've finished revising the side menu that uses vue-router and finalized the code and design. 
+
+**Thoughts**:   I'm so happy I finally applied the vue-router in my project. It's my problem and desire to do for a long time. Tomorrow I'll begin a new project.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

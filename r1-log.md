@@ -149,3 +149,7 @@ An amazing day for me cause I learn a lot today and finally solved my long-time 
 
 ### R1D48
 Today I applied and used vue-router in my side-menu. Because before I just used v-show to hide and show the components. But now I understand the vue-router that it changes the URL and history. It's the right thing to do.
+
+### R1D49
+A satisfying and productive day. I finally finished another project. I've finished revising the side menu that uses vue-router and finalized the code and design. Tomorrow I'll begin a new project.
+
