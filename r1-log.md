@@ -153,3 +153,5 @@ Today I applied and used vue-router in my side-menu. Because before I just used 
 ### R1D49
 A satisfying and productive day. I finally finished another project. I've finished revising the side menu that uses vue-router and finalized the code and design. Tomorrow I'll begin a new project.
 
+### R1D50
+I'm now in the middle of my journey! Today, I began the 'clinic profile creation page'. To explain, the website we are building is a website for veterinary. We are four in a team that trains ourselves and I'm doing the frontend work.

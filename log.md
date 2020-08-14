@@ -443,3 +443,12 @@
 **Thoughts**:   I'm so happy I finally applied the vue-router in my project. It's my problem and desire to do for a long time. Tomorrow I'll begin a new project.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 50: August 14, 2020 Friday
+
+**Today's Progress**:  Today, I made a pull request and began the 'clinic profile creation page'. To explain, the website we are building is a website for veterinary. We are four in a team that trains ourselves and I'm doing the frontend work.
+
+**Thoughts**:   I'm now in the middle of my journey! Hope for greater projects and producitvity on the second half!!
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
