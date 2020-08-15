@@ -155,3 +155,7 @@ A satisfying and productive day. I finally finished another project. I've finish
 
 ### R1D50
 I'm now in the middle of my journey! Today, I began the 'clinic profile creation page'. To explain, the website we are building is a website for veterinary. We are four in a team that trains ourselves and I'm doing the frontend work.
+
+### R1D51
+I continue to build the clinic profile creation page today and I learned more on #vuetify and how to make a modal component.
+

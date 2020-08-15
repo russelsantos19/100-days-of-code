@@ -452,3 +452,12 @@
 **Thoughts**:   I'm now in the middle of my journey! Hope for greater projects and producitvity on the second half!!
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 51: August 15, 2020 Saturday
+
+**Today's Progress**:  I continue to build the clinic profile creation page today and I learned more on vuetify and how to make a modal component.
+
+**Thoughts**:   The new Vue 3.x always gives me a hard time becuase many package are not yet compatible with it. Additionally, I used vite. So I encounter a lot of errors for example in installing vuetify.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
