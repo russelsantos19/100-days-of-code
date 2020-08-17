@@ -461,3 +461,22 @@
 **Thoughts**:   The new Vue 3.x always gives me a hard time becuase many package are not yet compatible with it. Additionally, I used vite. So I encounter a lot of errors for example in installing vuetify.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 52: August 16, 2020 Sunday
+
+**Today's Progress**:  I code a little today and finished the clinic-profile creation component.
+
+**Thoughts**:   Tomorrow, I plan to put some overlay effect to it. I need to study about modal component.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 53: August 17, 2020 Monday
+
+**Today's Progress**:  I've finally put overlay to my components. I learned about: transition tag in vue, transition property in CSS, linear-gradient color, customizing scrollbar, etc.
+
+**Thoughts**:    How I long to do put an overlay to my component. I've finally did it! Tomorrow I'll clear the code and design and finalized it and center the components.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+

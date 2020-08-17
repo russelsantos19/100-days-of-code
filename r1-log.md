@@ -159,3 +159,9 @@ I'm now in the middle of my journey! Today, I began the 'clinic profile creation
 ### R1D51
 I continue to build the clinic profile creation page today and I learned more on #vuetify and how to make a modal component.
 
+### R1D52
+I code a little today and finished the clinic-profile creation component. Tomorrow, I plan to put some overlay effect to it.
+
+### R1D53
+I've finally put overlay to my components. How I long to do this. I learned about: transition tag in vue, transition property in CSS, linear-gradient color, customizing scrollbar, etc.
+
