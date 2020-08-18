@@ -480,3 +480,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 54: August 18, 2020 Tuesday
+
+**Today's Progress**:  I made a customize multi-select dropdown because I cannot use already made from #npm because these libraries are not yet compatible with Vue 3. I also fixed my customize scrollbar.
+
+**Thoughts**:    I'm glad I learn and did something no matter how small. Tomorrow, I want to finish the page and finalized the design and code.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

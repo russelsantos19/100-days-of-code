@@ -165,3 +165,6 @@ I code a little today and finished the clinic-profile creation component. Tomorr
 ### R1D53
 I've finally put overlay to my components. How I long to do this. I learned about: transition tag in vue, transition property in CSS, linear-gradient color, customizing scrollbar, etc.
 
+### R1D54
+I made a customize multi-select dropdown because I cannot use already made from npm because these libraries are not yet compatible with Vue 3. I also fixed my customize scrollbar. I'm glad I learn and did something no matter how small.
+
