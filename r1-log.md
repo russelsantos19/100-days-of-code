@@ -168,3 +168,5 @@ I've finally put overlay to my components. How I long to do this. I learned abou
 ### R1D54
 I made a customize multi-select dropdown because I cannot use already made from npm because these libraries are not yet compatible with Vue 3. I also fixed my customize scrollbar. I'm glad I learn and did something no matter how small.
 
+### R1D55
+I spent only two hours. I've clear the design and function of my multi-select dropdown. Though I encounter an error and it gives me a hard time, I learned about and how to make #vuejs custom directives. It was amazing.

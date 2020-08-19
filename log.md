@@ -488,3 +488,12 @@
 **Thoughts**:    I'm glad I learn and did something no matter how small. Tomorrow, I want to finish the page and finalized the design and code.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 55: August 19, 2020 Wednesday
+
+**Today's Progress**:   I spent only two hours. I've clear the design and function of my multi-select dropdown. Though I encounter an error and it gives me a hard time, I learned about and how to make #vuejs custom directives. It was amazing.
+
+**Thoughts**:    I need to study more on vue custom directives and totally apply it. Btw, someone answer my question in  stackoverflow after a month and he answer it right cause I already figure it out that my problem is I used Vue 3 and not Vue 2 in the error in my question.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
