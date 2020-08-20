@@ -497,3 +497,12 @@
 **Thoughts**:    I need to study more on vue custom directives and totally apply it. Btw, someone answer my question in  stackoverflow after a month and he answer it right cause I already figure it out that my problem is I used Vue 3 and not Vue 2 in the error in my question.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 56: August 20, 2020 Thursday
+
+**Today's Progress**:   I fix the design and want to add some great functionality to the page. I learned about keyboard event handling.
+
+**Thoughts**:    I spent four hours and really enjoy coding today but I had different things to do and I want to adjust my schedule.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

@@ -170,3 +170,6 @@ I made a customize multi-select dropdown because I cannot use already made from 
 
 ### R1D55
 I spent only two hours. I've clear the design and function of my multi-select dropdown. Though I encounter an error and it gives me a hard time, I learned about and how to make #vuejs custom directives. It was amazing.
+
+### R1D56
+I spent four hours and really enjoy coding today but I had different things to do and I want to adjust my schedule. I fix the design and want to add some great functionality to the page. I learned about keyboard event handling.
