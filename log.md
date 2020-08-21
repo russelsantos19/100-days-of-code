@@ -506,3 +506,12 @@
 **Thoughts**:    I spent four hours and really enjoy coding today but I had different things to do and I want to adjust my schedule.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 57: August 21, 2020 Friday
+
+**Today's Progress**:   I code little today and made some form-validation and function. I also fix a bug.
+
+**Thoughts**:    I think I'm not fast enough and I want to change it. I'll show this project once it's finished.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

@@ -173,3 +173,6 @@ I spent only two hours. I've clear the design and function of my multi-select dr
 
 ### R1D56
 I spent four hours and really enjoy coding today but I had different things to do and I want to adjust my schedule. I fix the design and want to add some great functionality to the page. I learned about keyboard event handling.
+
+### R1D57
+I code little today and made some form-validation and function. I think I'm not fast enough and I want to change it. I'll show this project once it's finished. I also fix a bug.
