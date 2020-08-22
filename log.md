@@ -515,3 +515,12 @@
 **Thoughts**:    I think I'm not fast enough and I want to change it. I'll show this project once it's finished.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 58: August 22, 2020 Saturday
+
+**Today's Progress**:   I fix the responsiveness of the new page. I fix the margin and the z-index of the clinic-profile-creation component.
+
+**Thoughts**:   I saw that as the project gets larger, the more time you need to spend in adding a feature because the code became complicated, & sometimes you need to adjust some code to fit the new feature.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

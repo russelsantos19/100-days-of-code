@@ -176,3 +176,6 @@ I spent four hours and really enjoy coding today but I had different things to d
 
 ### R1D57
 I code little today and made some form-validation and function. I think I'm not fast enough and I want to change it. I'll show this project once it's finished. I also fix a bug.
+
+### R1D58
+I fix the responsiveness of the new page. I saw that as the project gets larger, the more time you need to spend in adding a feature because the code became complicated, & sometimes you need to adjust some code to fit the new feature.
