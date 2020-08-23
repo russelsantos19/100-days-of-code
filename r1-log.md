@@ -179,3 +179,6 @@ I code little today and made some form-validation and function. I think I'm not 
 
 ### R1D58
 I fix the responsiveness of the new page. I saw that as the project gets larger, the more time you need to spend in adding a feature because the code became complicated, & sometimes you need to adjust some code to fit the new feature.
+
+### R1D59
+I'm busy today on other things but I'd be able to code and fix bugs and error in my code and design(margin, z-index, position). One of these days I'll show the update to my website and I'll begin another project.

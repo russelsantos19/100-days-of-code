@@ -524,3 +524,13 @@
 **Thoughts**:   I saw that as the project gets larger, the more time you need to spend in adding a feature because the code became complicated, & sometimes you need to adjust some code to fit the new feature.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 59: August 23, 2020 Sunday
+
+**Today's Progress**:   I'm busy today on other things but I'd be able to code and fix bugs and error in my code and design.I'd fix the margin of the profile creation components, the z-index of navigaition against button in home components and the error message position in mobile view.
+
+**Thoughts**:   One of these days I'll show the update to my website and I'll begin another project.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
