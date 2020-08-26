@@ -534,3 +534,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 60: August 25, 2020 Tuesday
+
+**Today's Progress**:   I fix the responsiveness of my side navigation for very small screen height, ex when you rotate your phone. I also made a function that converts a 24hr to 12hr format.
+
+**Thoughts**:   I had a hard time focusing, I need more sleep.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

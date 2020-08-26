@@ -182,3 +182,9 @@ I fix the responsiveness of the new page. I saw that as the project gets larger,
 
 ### R1D59
 I'm busy today on other things but I'd be able to code and fix bugs and error in my code and design(margin, z-index, position). One of these days I'll show the update to my website and I'll begin another project.
+
+### R1D60
+I fix the responsiveness of my side navigation for very small screen height, ex when you rotate your phone. I also made a function that converts a 24hr to 12hr format.
+
+
+
