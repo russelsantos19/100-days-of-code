@@ -186,5 +186,6 @@ I'm busy today on other things but I'd be able to code and fix bugs and error in
 ### R1D60
 I fix the responsiveness of my side navigation for very small screen height, ex when you rotate your phone. I also made a function that converts a 24hr to 12hr format.
 
-
+### R1D61
+An hour today for my project and  I just add another button that pushes the collected data to an array and cleans the input fields. I spend the rest in fixing an error. I wonder how many percent of our coding time we gave to debugging errors?
 

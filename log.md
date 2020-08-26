@@ -542,3 +542,12 @@
 **Thoughts**:   I had a hard time focusing, I need more sleep.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 61: August 26, 2020 Wednesday
+
+**Today's Progress**:   An hour today for my project and  I just add another button that pushes the collected data to an array and cleans the input fields. I spend the rest in fixing an error.
+
+**Thoughts**:   I wonder how many percent of our coding time we gave to debugging errors?.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
