@@ -551,3 +551,13 @@
 **Thoughts**:   I wonder how many percent of our coding time we gave to debugging errors?.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 62: August 27, 2020 Thursday
+
+**Today's Progress**:   I'd be able to sort the days of the week and make it always begin on Monday and so on whatever day you chose first. I also abled to display it in the select button and its reactive.
+
+**Thoughts**:   A short but productive and happy coding time. I think I can finished this project tomorrow.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+

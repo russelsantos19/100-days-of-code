@@ -189,3 +189,5 @@ I fix the responsiveness of my side navigation for very small screen height, ex 
 ### R1D61
 An hour today for my project and  I just add another button that pushes the collected data to an array and cleans the input fields. I spend the rest in fixing an error. I wonder how many percent of our coding time we gave to debugging errors?
 
+### R1D62
+A short but productive and happy coding time. I'd be able to sort the days of the week and make it always begin on Monday and so on whatever day you chose first. I also abled to display it in the select button and its reactive.
