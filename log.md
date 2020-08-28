@@ -561,3 +561,12 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 63: August 28, 2020 Friday
+
+**Today's Progress**:   Today I display the selected day option in the form when you clicked a button, add a computed property for 12 hr. format of time, remove unnecessary code that hides dropdown.
+
+**Thoughts**:    Today I learned about CSS methods, naming conventions and BEM. I remember when I required to use BEM in an exam in one of the company where I applied. Now I understand it, I will study it more and I will apply it.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+

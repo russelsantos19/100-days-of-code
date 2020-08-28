@@ -191,3 +191,6 @@ An hour today for my project and  I just add another button that pushes the coll
 
 ### R1D62
 A short but productive and happy coding time. I'd be able to sort the days of the week and make it always begin on Monday and so on whatever day you chose first. I also abled to display it in the select button and its reactive.
+
+### R1D63
+What I did: Display the selected day option in the form when you clicked a button, add a computed property for 12 hr. format of time, remove unnecessary code that hides dropdown. Today I learned about CSS methods, naming conventions and BEM.
