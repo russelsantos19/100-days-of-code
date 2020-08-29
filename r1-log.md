@@ -194,3 +194,6 @@ A short but productive and happy coding time. I'd be able to sort the days of th
 
 ### R1D63
 What I did: Display the selected day option in the form when you clicked a button, add a computed property for 12 hr. format of time, remove unnecessary code that hides dropdown. Today I learned about CSS methods, naming conventions and BEM.
+
+### R1D64
+Just an hour today for my project. I just clean my javascript code and make some elements reactive, the checkboxes will be disabled when you selected it and add it to the list. 

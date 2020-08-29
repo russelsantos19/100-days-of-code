@@ -570,3 +570,11 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 64: August 29, 2020 Saturday
+
+**Today's Progress**:   Just an hour today for my project. I just clean my javascript code and make some elements reactive, the checkboxes will be disabled when you selected it and add it to the list.
+
+**Thoughts**:    I realised that an hour is not enough and too short for me to make some productive progress everyday and I also realise that I always spend more than an hour or two everyday.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
