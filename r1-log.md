@@ -197,3 +197,7 @@ What I did: Display the selected day option in the form when you clicked a butto
 
 ### R1D64
 Just an hour today for my project. I just clean my javascript code and make some elements reactive, the checkboxes will be disabled when you selected it and add it to the list. 
+
+### R1D65
+Spent an hour in coding and designing the day and time list on my project. I'd be able to also add the edit button if you want to edit the list. I'll do my best to code daily at least an hour cause I'll be busy these coming days at work.
+
