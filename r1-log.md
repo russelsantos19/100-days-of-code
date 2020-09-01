@@ -201,3 +201,6 @@ Just an hour today for my project. I just clean my javascript code and make some
 ### R1D65
 Spent an hour in coding and designing the day and time list on my project. I'd be able to also add the edit button if you want to edit the list. I'll do my best to code daily at least an hour cause I'll be busy these coming days at work.
 
+### R1D66
+It's a wonderful day! I finished the clinic profile creation component. It takes me some time but it's all worth it. I learned a lot. You can now set a different schedule for different days.
+

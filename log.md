@@ -587,3 +587,12 @@
 **Thoughts**:    I'll do my best to code daily at least an hour cause I'll be busy these coming days at work.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 66: September 01, 2020 Tuesday
+
+**Today's Progress**:   It's a wonderful day! I finished the clinic profile creation component. It takes me some time but it's all worth it. I learned a lot. You can now set a different schedule for different days.
+
+**Thoughts**:    I just had to finalize some function and data and clean the code and design tomorrow. Then I can start a new project.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
