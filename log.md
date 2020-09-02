@@ -596,3 +596,13 @@
 **Thoughts**:    I just had to finalize some function and data and clean the code and design tomorrow. Then I can start a new project.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 67: September 02, 2020 Wednesday
+
+**Today's Progress**:   Spent 4hours today. I add form validation that makes the user unable to add schedule if there is no time to a day and vice versa. I also made the schedule object that will make the schedule easy to access when sent to the server.
+
+**Thoughts**:    Tomorrow I'll Add Select All Checkbox and finally make a pull request.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+

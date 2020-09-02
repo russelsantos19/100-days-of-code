@@ -204,3 +204,5 @@ Spent an hour in coding and designing the day and time list on my project. I'd b
 ### R1D66
 It's a wonderful day! I finished the clinic profile creation component. It takes me some time but it's all worth it. I learned a lot. You can now set a different schedule for different days.
 
+### R1D67
+Spent 4hours today. I add form validation that makes the user unable to add schedule if there is no time to a day and vice versa. I also made the schedule object that will make the schedule easy to access when sent to the server.
