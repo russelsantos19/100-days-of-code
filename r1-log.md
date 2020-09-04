@@ -206,3 +206,9 @@ It's a wonderful day! I finished the clinic profile creation component. It takes
 
 ### R1D67
 Spent 4hours today. I add form validation that makes the user unable to add schedule if there is no time to a day and vice versa. I also made the schedule object that will make the schedule easy to access when sent to the server.
+
+### R1D68
+Spent 4hrs and add the select all checkbox. It looks easy but it is not. Maybe I'm slow but I'm confident it was functioning well and no bugs whatever the user did. I made a pull request and will begin another feature for the website.
+
+### R1D69
+I made a new component for my website which is patient profile creation. I also fix a small error but takes me some time to find it. I wonder how long it takes to fixed an error to a very big project? I also update outdated packages.

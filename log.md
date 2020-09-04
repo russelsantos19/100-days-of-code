@@ -606,3 +606,20 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 68: September 03, 2020 Thursday
+
+**Today's Progress**:   Spent 4hrs and add the select all checkbox. It looks easy but it is not. I made a pull request and will begin another feature for the website.
+
+**Thoughts**:    Maybe I'm slow in making a project but I'm confident it was functioning well and no bugs whatever the user did.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 69: September 04, 2020 Friday
+
+**Today's Progress**:   I made a new component for my website which is patient profile creation. I also fix a small error but takes me some time to find it. I also update outdated packages.
+
+**Thoughts**:     I wonder how long it takes to fixed an error to a very big project?
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
