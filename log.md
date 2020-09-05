@@ -623,3 +623,12 @@
 **Thoughts**:     I wonder how long it takes to fixed an error to a very big project?
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 70: September 05, 2020 Saturday
+
+**Today's Progress**:   I've finished the patient profile creation component based on the requirements. It's almost finished since I just copy the code from clinic profile creation component. I just added new field and remove other fields.
+
+**Thoughts**:     It's getting easier because I'm now familiar with it. I think the thrilling part of programming is you always learn something new. I also thought of make one component for these 'profile creation' components. Since they are all the same, I just pass a prop to the component and the component will display the field I want to display through props. Will it work?
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

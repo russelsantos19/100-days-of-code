@@ -212,3 +212,6 @@ Spent 4hrs and add the select all checkbox. It looks easy but it is not. Maybe I
 
 ### R1D69
 I made a new component for my website which is patient profile creation. I also fix a small error but takes me some time to find it. I wonder how long it takes to fixed an error to a very big project? I also update outdated packages.
+
+### R1D70
+I've finished the patient profile creation component based on the requirements. It's getting easier because I'm now familiar with it. I think the thrilling part of programming is you always learn something new.
