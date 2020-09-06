@@ -215,3 +215,6 @@ I made a new component for my website which is patient profile creation. I also 
 
 ### R1D70
 I've finished the patient profile creation component based on the requirements. It's getting easier because I'm now familiar with it. I think the thrilling part of programming is you always learn something new.
+
+### R1D71
+I add the optional owner name input and ownership-date dropdown input to the component. So the component now had two date-dropdown input.

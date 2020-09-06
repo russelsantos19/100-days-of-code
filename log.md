@@ -632,3 +632,12 @@
 **Thoughts**:     It's getting easier because I'm now familiar with it. I think the thrilling part of programming is you always learn something new. I also thought of make one component for these 'profile creation' components. Since they are all the same, I just pass a prop to the component and the component will display the field I want to display through props. Will it work?
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 71: September 06, 2020 Sunday
+
+**Today's Progress**:   I add the optional owner name input and ownership-date dropdown input to the component. So the component now had two date-dropdown input.
+
+**Thoughts**:     These component is almost finished and therefore the fastest feature I made. I just had to fix the design and put input box to right places.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
