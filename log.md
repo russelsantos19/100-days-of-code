@@ -641,3 +641,12 @@
 **Thoughts**:     These component is almost finished and therefore the fastest feature I made. I just had to fix the design and put input box to right places.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 72: September 08, 2020 Tuesday
+
+**Today's Progress**:   I finalized the code, design, and form validation of the profile creation page. It's great to learn about setCustomValidity, and pattern attribute in #HTML. It makes custom form validation easier by using only HTML.
+
+**Thoughts**:     No thoughts for today, for the first time. XD
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

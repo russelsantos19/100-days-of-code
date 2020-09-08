@@ -218,3 +218,6 @@ I've finished the patient profile creation component based on the requirements. 
 
 ### R1D71
 I add the optional owner name input and ownership-date dropdown input to the component. So the component now had two date-dropdown input.
+
+### R1D72
+I finalized the code, design, and form validation of the profile creation page. It's great to learn about setCustomValidity, and pattern attribute in #HTML. It makes custom form validation easier by using only HTML.
