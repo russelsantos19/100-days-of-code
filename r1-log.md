@@ -221,3 +221,6 @@ I add the optional owner name input and ownership-date dropdown input to the com
 
 ### R1D72
 I finalized the code, design, and form validation of the profile creation page. It's great to learn about setCustomValidity, and pattern attribute in #HTML. It makes custom form validation easier by using only HTML.
+
+### R1D73
+I code for an hour and update the patient profile component based on what my mentor told me and study about API, cause I had to enable the page to receive data from the server. It's another thing to learn and a new challenge to face.

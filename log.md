@@ -650,3 +650,12 @@
 **Thoughts**:     No thoughts for today, for the first time. XD
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 73: September 09, 2020 Wednesday
+
+**Today's Progress**:   I code for an hour and update the patient profile component based on what my mentor told me and study about API, cause I had to enable the page to receive data from the server.
+
+**Thoughts**:     I'm excited to learned about API, Ajax, and fetching data from the server. It's another thing to learn and a new challenge to face. By the way, today is my 8th spiritual birthday. The glorious day when I received Christ Jesus in my heart.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
