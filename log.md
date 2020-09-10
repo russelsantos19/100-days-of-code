@@ -659,3 +659,12 @@
 **Thoughts**:     I'm excited to learned about API, Ajax, and fetching data from the server. It's another thing to learn and a new challenge to face. By the way, today is my 8th spiritual birthday. The glorious day when I received Christ Jesus in my heart.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 74: September 10, 2020 Thursday
+
+**Today's Progress**:   Spent 2.5 hours. I learned about #JSON and #AJAX. I also made some updates to species input and made it a dropdown input that receives the data from the server.
+
+**Thoughts**:   I'll finish this tomorrow and begin a new project.  
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

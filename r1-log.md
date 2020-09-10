@@ -224,3 +224,6 @@ I finalized the code, design, and form validation of the profile creation page. 
 
 ### R1D73
 I code for an hour and update the patient profile component based on what my mentor told me and study about API, cause I had to enable the page to receive data from the server. It's another thing to learn and a new challenge to face.
+
+### R1D74
+Spent 2.5 hours. I learned about #JSON and #AJAX. I also made some updates to species input and made it a dropdown input that receives the data from the server.
