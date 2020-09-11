@@ -227,3 +227,6 @@ I code for an hour and update the patient profile component based on what my men
 
 ### R1D74
 Spent 2.5 hours. I learned about #JSON and #AJAX. I also made some updates to species input and made it a dropdown input that receives the data from the server.
+
+### R1D75
+I've finished the species and common name dropdown in my patient component on the vets website. The common name dropdown will update base on the input selected from species dropdown.

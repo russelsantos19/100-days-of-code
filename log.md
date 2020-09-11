@@ -668,3 +668,12 @@
 **Thoughts**:   I'll finish this tomorrow and begin a new project.  
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 75: September 11, 2020 Friday
+
+**Today's Progress**:   I've finished the species and common name dropdown in my patient component on the vets website. The common name dropdown will update base on the input selected from species dropdown.
+
+**Thoughts**:   I enjoyed doing this and learn how to convert object to array by making the object property converted array using Object.key(object).
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
