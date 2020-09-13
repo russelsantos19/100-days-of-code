@@ -230,3 +230,6 @@ Spent 2.5 hours. I learned about #JSON and #AJAX. I also made some updates to sp
 
 ### R1D75
 I've finished the species and common name dropdown in my patient component on the vets website. The common name dropdown will update base on the input selected from species dropdown.
+
+### R1D76
+I code little and revised my code based on my mentor told me. I clean the code and remove unnecessary data. And fix the design and remove some elements. A little bit busy.

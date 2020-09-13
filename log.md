@@ -677,3 +677,12 @@
 **Thoughts**:   I enjoyed doing this and learn how to convert object to array by making the object property converted array using Object.key(object).
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 76: September 13, 2020 Sunday
+
+**Today's Progress**:   I code little and revised my code based on my mentor told me. I clean the code and remove unnecessary data. And fix the design and remove some elements.
+
+**Thoughts**:   I'm a little bit busy today in applying for a job and preparing requirements.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
