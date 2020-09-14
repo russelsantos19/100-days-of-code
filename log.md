@@ -686,3 +686,12 @@
 **Thoughts**:   I'm a little bit busy today in applying for a job and preparing requirements.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 77: September 14, 2020 Monday
+
+**Today's Progress**:   I made another update to the code and clean it and then I made a pull request.
+
+**Thoughts**:   I'm a little bit busy today in applying for a job and preparing requirements.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

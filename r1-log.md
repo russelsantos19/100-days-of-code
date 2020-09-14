@@ -233,3 +233,6 @@ I've finished the species and common name dropdown in my patient component on th
 
 ### R1D76
 I code little and revised my code based on my mentor told me. I clean the code and remove unnecessary data. And fix the design and remove some elements. A little bit busy.
+
+### R1D77
+I made another update to the code and clean it and then I made a pull request.
