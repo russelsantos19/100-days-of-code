@@ -695,3 +695,12 @@
 **Thoughts**:   I'm a little bit busy today in applying for a job and preparing requirements.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 78: September 15, 2020 Tuesday
+
+**Today's Progress**:   I began a new page for my website where you can view and edit appointments. It is a table of schedules that contains information about the client, the patient, the service that is being availed, notes, room, and attending employee.
+
+**Thoughts**:   Now it started to get complicated. Hope to finish well and fast.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

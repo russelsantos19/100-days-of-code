@@ -236,3 +236,7 @@ I code little and revised my code based on my mentor told me. I clean the code a
 
 ### R1D77
 I made another update to the code and clean it and then I made a pull request.
+
+### R1D78
+I began a new page for my website where you can view and edit appointments. It is a table of schedules that contains information about the client, the patient, etc.. Now it started to get complicated. Hope to finish well and fast.
+
