@@ -240,3 +240,6 @@ I made another update to the code and clean it and then I made a pull request.
 ### R1D78
 I began a new page for my website where you can view and edit appointments. It is a table of schedules that contains information about the client, the patient, etc.. Now it started to get complicated. Hope to finish well and fast.
 
+### R1D79
+I had to revise my code and apply MVVM architecture. So today, I study about #MVVM. I also learned and applied the toLocaleString method that converts a date object to a string, using locale settings.
+

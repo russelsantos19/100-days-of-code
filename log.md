@@ -704,3 +704,12 @@
 **Thoughts**:   Now it started to get complicated. Hope to finish well and fast.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 79: September 16, 2020 Wednesday
+
+**Today's Progress**:   Today, I study about #MVVM. I also learned and applied the toLocaleString method that converts a date object to a string, using locale settings.
+
+**Thoughts**:   I had study more on MVVM to revise my code and apply MVVM architecture.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
