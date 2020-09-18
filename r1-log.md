@@ -243,3 +243,5 @@ I began a new page for my website where you can view and edit appointments. It i
 ### R1D79
 I had to revise my code and apply MVVM architecture. So today, I study about #MVVM. I also learned and applied the toLocaleString method that converts a date object to a string, using locale settings.
 
+### R1D80
+I continue to study the MVVM architecture with Vue. I also updated and check my code with the release of Vue 3 today named after One Piece, my favorite anime.

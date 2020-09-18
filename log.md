@@ -713,3 +713,12 @@
 **Thoughts**:   I had study more on MVVM to revise my code and apply MVVM architecture.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 80: September 18, 2020 Friday
+
+**Today's Progress**:   I continue to study the MVVM architecture with Vue.
+
+**Thoughts**:    I also updated and check my code with the release of Vue 3 today named after One Piece, my favorite anime. 
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
