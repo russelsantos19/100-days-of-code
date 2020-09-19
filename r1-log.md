@@ -245,3 +245,6 @@ I had to revise my code and apply MVVM architecture. So today, I study about #MV
 
 ### R1D80
 I continue to study the MVVM architecture with Vue. I also updated and check my code with the release of Vue 3 today named after One Piece, my favorite anime.
+
+### R1D81
+Spent my time solving a logical error that appeared after I update to #vuejs 3 official release. I think there are some changes or something error with the Vue source code? When I go back to previous Vue RC, my code works well again.

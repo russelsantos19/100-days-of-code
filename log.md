@@ -722,3 +722,13 @@
 **Thoughts**:    I also updated and check my code with the release of Vue 3 today named after One Piece, my favorite anime. 
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 81: September 19, 2020 Saturday
+
+**Today's Progress**:   Spent my time solving a logical error that appeared after I update to #vuejs 3 official release. When I go back to previous Vue RC, my code works well again.
+
+**Thoughts**:    I think there are some changes or something error with the Vue source code? Kidding.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
