@@ -248,3 +248,6 @@ I continue to study the MVVM architecture with Vue. I also updated and check my 
 
 ### R1D81
 Spent my time solving a logical error that appeared after I update to #vuejs 3 official release. I think there are some changes or something error with the Vue source code? When I go back to previous Vue RC, my code works well again.
+
+### R1D82
+I didn't post an update yesterday cause I'm stuck in reading and not coding, the same as today. However, I understand more about bundling and how Vite works. I also learned what is MVVM and what is Model, what is View, and what is ViewModel in vuejs.

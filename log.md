@@ -732,3 +732,12 @@
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
+
+### Day 81: September 19, 2020 Saturday
+
+**Today's Progress**:   I understand more about bundling and how Vite works. I also learned what is MVVM and what is Model, what is View, and what is ViewModel in vuejs.
+
+**Thoughts**:    I didn't post an update yesterday cause I'm stuck in reading and not coding, the same as today. However, atleast I learned a lot.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
