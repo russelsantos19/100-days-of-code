@@ -251,3 +251,6 @@ Spent my time solving a logical error that appeared after I update to #vuejs 3 o
 
 ### R1D82
 I didn't post an update yesterday cause I'm stuck in reading and not coding, the same as today. However, I understand more about bundling and how Vite works. I also learned what is MVVM and what is Model, what is View, and what is ViewModel in vuejs.
+
+### R1D83
+Spent 3 hours and I'd separate the model from the view-model in my #vuejs code. I used and learned more about ES6 import and export.
