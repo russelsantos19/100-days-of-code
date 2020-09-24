@@ -733,7 +733,7 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
-### Day 82: September 22, 2020 Saturday
+### Day 82: September 22, 2020 Tuesday
 
 **Today's Progress**:   I understand more about bundling and how Vite works. I also learned what is MVVM and what is Model, what is View, and what is ViewModel in vuejs.
 
@@ -742,10 +742,19 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
-### Day 83: September 23, 2020 Sunday
+### Day 83: September 23, 2020 Wednesday
 
 **Today's Progress**:   Spent 3 hours and I'd separate the model from the view-model in my vuejs code. I used and learned more about ES6 import and export.
 
 **Thoughts**:    I thought it was hard to apply MVVM in my vue.js code but it is not. Vue.js is already an MVVM architecture. I just had to seperate the model from view-model, thats the requirement.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 84: September 24, 2020 Thursday
+
+**Today's Progress**:   I just fixed my code that I didn't finished yesterday. I fully separate the model from view-model.
+
+**Thoughts**:    I wont be able to code well, my computer was so slow today! I think it was infected by Corona Virus lol. Hahah.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

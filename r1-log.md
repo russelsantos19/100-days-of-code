@@ -254,3 +254,7 @@ I didn't post an update yesterday cause I'm stuck in reading and not coding, the
 
 ### R1D83
 Spent 3 hours and I'd separate the model from the view-model in my #vuejs code. I used and learned more about ES6 import and export.
+
+### R1D84
+I just fixed my code that I didn't finished yesterday. I fully separate the model from view-model. I wont be able to code well, my computer was so slow today! I think it was infected by Corona Virus lol. Hahah.
+
