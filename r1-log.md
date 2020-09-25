@@ -258,3 +258,6 @@ Spent 3 hours and I'd separate the model from the view-model in my #vuejs code. 
 ### R1D84
 I just fixed my code that I didn't finished yesterday. I fully separate the model from view-model. I wont be able to code well, my computer was so slow today! I think it was infected by Corona Virus lol. Hahah.
 
+### R1D85
+Today I apply the MVVM architecture, separate the model and other changes I made, across all the components I made in the past. I learn that when a project is getting bigger, a little change in your code takes time to do.
+

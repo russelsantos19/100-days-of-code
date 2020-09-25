@@ -758,3 +758,12 @@
 **Thoughts**:    I wont be able to code well, my computer was so slow today! I think it was infected by Corona Virus lol. Hahah.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 85: September 25, 2020 Friday
+
+**Today's Progress**:   Today I apply the MVVM architecture, separate the model and other changes I made, across all the components I made in the past.
+
+**Thoughts**:    I learn that when a project is getting bigger, a little change in your code takes time to do.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
