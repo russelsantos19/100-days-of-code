@@ -767,3 +767,12 @@
 **Thoughts**:    I learn that when a project is getting bigger, a little change in your code takes time to do.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 86: September 28, 2020 Saturday
+
+**Today's Progress**:   I'd finished updating and applying MVVM architecture to all the components of my Veterinary Website. I can finally begin a new feature for my website.
+
+**Thoughts**:    I did not code yesterday and I code the other day but did not report cause I want to report or log something that is wort reporting. I'll share the link here once this website was finished.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

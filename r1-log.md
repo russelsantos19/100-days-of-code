@@ -261,3 +261,5 @@ I just fixed my code that I didn't finished yesterday. I fully separate the mode
 ### R1D85
 Today I apply the MVVM architecture, separate the model and other changes I made, across all the components I made in the past. I learn that when a project is getting bigger, a little change in your code takes time to do.
 
+### R1D86
+I'd finished updating and applying MVVM architecture to all the components of my Veterinary Website. I can finally begin a new feature for my website. I'll share the link here once this website was finished.
