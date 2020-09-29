@@ -769,10 +769,20 @@
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 
 
-### Day 86: September 28, 2020 Saturday
+### Day 86: September 28, 2020 Monday
 
 **Today's Progress**:   I'd finished updating and applying MVVM architecture to all the components of my Veterinary Website. I can finally begin a new feature for my website.
 
 **Thoughts**:    I did not code yesterday and I code the other day but did not report cause I want to report or log something that is wort reporting. I'll share the link here once this website was finished.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 87: September 29, 2020 Tuesday
+
+**Today's Progress**:   Today, I clean and finalized my code and made a pull request to my mentor. I learned about autocomplete property in HTML that was needed to add for the best experience of web users
+
+**Thoughts**:    I think I should be more specific in writing my progress not just for me to easy to understand and recall when I read it but also for the other people who read my progress. God bless us all!
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+.

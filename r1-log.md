@@ -263,3 +263,6 @@ Today I apply the MVVM architecture, separate the model and other changes I made
 
 ### R1D86
 I'd finished updating and applying MVVM architecture to all the components of my Veterinary Website. I can finally begin a new feature for my website. I'll share the link here once this website was finished.
+
+### R1D87
+Today, I clean and finalized my code and made a pull request to my mentor. I learned about autocomplete property in HTML that was needed to add for the best experience of web users.
