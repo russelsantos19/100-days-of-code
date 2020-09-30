@@ -266,3 +266,6 @@ I'd finished updating and applying MVVM architecture to all the components of my
 
 ### R1D87
 Today, I clean and finalized my code and made a pull request to my mentor. I learned about autocomplete property in HTML that was needed to add for the best experience of web users.
+
+### R1D88
+I learned about 'Separation of Concerns'. This is what I missed and what my mentor trying to teach me for the past week. But I did not apply bec. what I'm doing is SFC in vuejs. Now I understand. And I learned one of the common mistakes of a CodeNewbie

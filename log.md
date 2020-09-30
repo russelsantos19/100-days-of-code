@@ -785,4 +785,13 @@
 **Thoughts**:    I think I should be more specific in writing my progress not just for me to easy to understand and recall when I read it but also for the other people who read my progress. God bless us all!
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 88: September 30, 2020 Wednesday
+
+**Today's Progress**:   Today I separate viewmodel from view so View, Model, and Viewmodel are now separated. I also apply export default to my code in model.
+
+**Thoughts**:    I learned about 'Separation of Concerns'. This is what I missed and what my mentor trying to teach me for the past week. But I did not apply bec. what I'm doing is SFC in vuejs. Now I understand. And I learned one of the common mistakes of a CodeNewbie.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
 .
