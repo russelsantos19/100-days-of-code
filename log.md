@@ -794,4 +794,12 @@
 **Thoughts**:    I learned about 'Separation of Concerns'. This is what I missed and what my mentor trying to teach me for the past week. But I did not apply bec. what I'm doing is SFC in vuejs. Now I understand. And I learned one of the common mistakes of a CodeNewbie.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
-.
+
+
+### Day 89: October 01, 2020 Thursday
+
+**Today's Progress**:   Today I start making the appointments component where the clinic can view and edit the appointments. It is a table of schedule that contains information about the client, patient, etc.
+
+**Thoughts**:     It's my first time to use the table tag in HTML in my project though use it before it school but cannot understand.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

@@ -269,3 +269,6 @@ Today, I clean and finalized my code and made a pull request to my mentor. I lea
 
 ### R1D88
 I learned about 'Separation of Concerns'. This is what I missed and what my mentor trying to teach me for the past week. But I did not apply bec. what I'm doing is SFC in vuejs. Now I understand. And I learned one of the common mistakes of a CodeNewbie
+
+### R1D89
+Today I start making the appointments component where the clinic can view and edit the appointments. It is a table of schedule that contains information about the client, patient, etc. It's my first time to use the table tag in HTML. 
