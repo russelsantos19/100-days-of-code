@@ -272,3 +272,6 @@ I learned about 'Separation of Concerns'. This is what I missed and what my ment
 
 ### R1D89
 Today I start making the appointments component where the clinic can view and edit the appointments. It is a table of schedule that contains information about the client, patient, etc. It's my first time to use the table tag in HTML. 
+
+### R1D90
+I made this appointment list component on my website. It was thrilling and I felt much excitement while doing this new project. I saw my improvement and I'm faster than ever. There's a lot to add here like the time and design.

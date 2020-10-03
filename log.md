@@ -803,3 +803,12 @@
 **Thoughts**:     It's my first time to use the table tag in HTML in my project though use it before it school but cannot understand.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 90: October 03, 2020 Saturday
+
+**Today's Progress**:   I made the appointment list component on my website. I learn about contentEditable in HTML where you can edit an element in HTML when it is set to true. There's still a lot to add like the time and design.
+
+**Thoughts**:     It was thrilling and I felt much excitement while doing this new project. I saw my improvement and I'm faster than ever.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
