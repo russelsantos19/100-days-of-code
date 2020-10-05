@@ -812,3 +812,12 @@
 **Thoughts**:     It was thrilling and I felt much excitement while doing this new project. I saw my improvement and I'm faster than ever.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 91: October 05, 2020 Monday
+
+**Today's Progress**:  I just fix some error and design in my HTML table where I want to put a button. I just made a separate cell for the button and the problem was fixed. I also try to make the component focuses on the content when you click edit button.
+
+**Thoughts**:     I must code earlier to sleep earlier. I must plan what should I do before I start coding for me to have a goal and make my time productive.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
