@@ -821,3 +821,12 @@
 **Thoughts**:     I must code earlier to sleep earlier. I must plan what should I do before I start coding for me to have a goal and make my time productive.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 92: October 07, 2020 Wednesday
+
+**Today's Progress**:  I learn about $nextTick in #vuejs, a function that executes a callback AFTER the DOM updates. I also solve another problem by applying scopes, a basic javascript principle.
+
+**Thoughts**:      I'm so happy today cause I solve many problems in my code. $nextTick will be very helpful to me in solving different problems. I spend most of my time in problem solving and bug fixing in my code, I realize that Programming is about solving problems.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
