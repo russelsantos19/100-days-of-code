@@ -830,3 +830,12 @@
 **Thoughts**:      I'm so happy today cause I solve many problems in my code. $nextTick will be very helpful to me in solving different problems. I spend most of my time in problem solving and bug fixing in my code, I realize that Programming is about solving problems.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 93: October 08, 2020 Thursday
+
+**Today's Progress**:  Today I start making the appointments component user view preference. You can view appointments by day, by week, and by months (same in a calendar app). I also revised some of my code and add shadow to the side-menu when it is open.
+
+**Thoughts**:      Seven days to go for my #100DaysOfCode Challenge. It feels really great to finish this challenge. I think I should delay my log and delay finishing this challenge to be able to finish my project and show something great in my Hundred Day.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

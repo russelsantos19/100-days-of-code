@@ -281,3 +281,6 @@ I just fix some error and design in my HTML table where I want to put a button. 
 
 ### R1D92
 I'm so happy today cause I solve many problems in my code. I learn about $nextTick in #vuejs, a function that executes a callback AFTER the DOM updates. I also solve another problem by applying scopes. Programming is about solving problems.
+
+### R1D93
+Today I start making the appointments component user view preference. You can view appointments by day, by week, and by months (same in a calendar app). I also revised some of my code and add shadow to the side-menu when it is open.
