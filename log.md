@@ -839,3 +839,12 @@
 **Thoughts**:      Seven days to go for my #100DaysOfCode Challenge. It feels really great to finish this challenge. I think I should delay my log and delay finishing this challenge to be able to finish my project and show something great in my Hundred Day.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 94: October 10, 2020 Saturday
+
+**Today's Progress**:  Spent 3-4 hours in coding today. And I'd be able to put a date in my appointments application. There's a lot to do in this project. I also had to add the time per appointment.
+
+**Thoughts**:      Today I learn the importance of a unique key in v-for vuejs so I made a function that creates a unuqiue ID for each appointment.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

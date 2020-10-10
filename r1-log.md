@@ -284,3 +284,6 @@ I'm so happy today cause I solve many problems in my code. I learn about $nextTi
 
 ### R1D93
 Today I start making the appointments component user view preference. You can view appointments by day, by week, and by months (same in a calendar app). I also revised some of my code and add shadow to the side-menu when it is open.
+
+### R1D94
+Spent 3-4 hours in coding today. And I'd be able to put a date in my appointments application. There's a lot to do in this project. I also had to add the time per appointment. Today I learn the importance of a unique key in v-for vuejs.
