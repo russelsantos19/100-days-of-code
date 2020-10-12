@@ -287,3 +287,6 @@ Today I start making the appointments component user view preference. You can vi
 
 ### R1D94
 Spent 3-4 hours in coding today. And I'd be able to put a date in my appointments application. There's a lot to do in this project. I also had to add the time per appointment. Today I learn the importance of a unique key in v-for vuejs.
+
+### R1D95
+I'd be able to 'display' the date for each appointment in my appointments project. You can now view your appointments on different days and toggle between days. I also insert an input tag in each cell to be able to use the v-model.

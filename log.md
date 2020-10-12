@@ -848,3 +848,12 @@
 **Thoughts**:      Today I learn the importance of a unique key in v-for vuejs so I made a function that creates a unuqiue ID for each appointment.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 95: October 12, 2020 Monday
+
+**Today's Progress**:  I'd be able to 'display' the date for each appointment in my appointments project. You can now view your appointments on different days and toggle between days. I also insert an input tag in each cell to be able to use the v-model.
+
+**Thoughts**:      I enjoyed coding today. So happy to solve problems! Five days to go to finish the challenge! I want to show something before this challenge ends.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
