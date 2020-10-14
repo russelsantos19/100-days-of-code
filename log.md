@@ -857,3 +857,12 @@
 **Thoughts**:      I enjoyed coding today. So happy to solve problems! Five days to go to finish the challenge! I want to show something before this challenge ends.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 96: October 14, 2020 Wednesday
+
+**Today's Progress**:  I add a time column and fix some errors in the appointments project. You can now set, view, and edit an appointment from any day, month, and year and do it without errors.
+
+**Thoughts**:      I think in the last 4 days of the challenge I should give more time like never before to be able to finish and present the appointment component int the 100th day.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
