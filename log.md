@@ -866,3 +866,12 @@
 **Thoughts**:      I think in the last 4 days of the challenge I should give more time like never before to be able to finish and present the appointment component int the 100th day.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 97: October 16, 2020 Friday
+
+**Today's Progress**:  I finally added the time to my appointments component app. I also fix its design. I plan to go and make the week view and month view of the appointments.
+
+**Thoughts**:      I want to finish this component before this challenge ends and present it in twitter.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

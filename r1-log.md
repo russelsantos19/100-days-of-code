@@ -293,3 +293,6 @@ I'd be able to 'display' the date for each appointment in my appointments projec
 
 ### R1D96
 I add a time column and fix some errors in the appointments project. You can now set, view, and edit an appointment from any day, month, and year and do it without errors.
+
+### R1D97
+I finally added the time to my appointments component app. I also fix its design. I plan to go and make the week view and month view of the appointments. I want to finish this component before this challenge ends and present it in twitter.
