@@ -875,3 +875,12 @@
 **Thoughts**:      I want to finish this component before this challenge ends and present it in twitter.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 98: October 19, 2020 Monday
+
+**Today's Progress**:  I add some validation to the appointments component so that you cannot add an appointment with an invalid time.
+
+**Thoughts**:  I learn that when I import a model, I shall not use it on other components cause the model was a reference, it is global.
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

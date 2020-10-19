@@ -296,3 +296,6 @@ I add a time column and fix some errors in the appointments project. You can now
 
 ### R1D97
 I finally added the time to my appointments component app. I also fix its design. I plan to go and make the week view and month view of the appointments. I want to finish this component before this challenge ends and present it in twitter.
+
+### R1D98
+I add some validation to the appointments component so that you cannot add an appointment with an invalid time. I learn that when I import a model, I shall not use it on other components cause the model was a reference, it is global.
