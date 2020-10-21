@@ -299,3 +299,6 @@ I finally added the time to my appointments component app. I also fix its design
 
 ### R1D98
 I add some validation to the appointments component so that you cannot add an appointment with an invalid time. I learn that when I import a model, I shall not use it on other components cause the model was a reference, it is global.
+
+### R1D99
+Here we are to the final step that started in one step. Today I start making the week-view for my appointment component. I created the data and variables needed so that I can display the day of the week for every appointment.
