@@ -893,3 +893,12 @@
 **Thoughts**:  Here we are to the final step that started in one step.
 
 **Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)
+
+
+### Day 100: October 27, 2020 Tuesday
+
+**Today's Progress**:  Thank you, Jesus! Finally I finished the challenge and I built the veterenary website. Not so great but I think it's not bad for almost just an hour a day. Still, there's a lot to do in this project and there's a lot to learn. Thank you, everyone!!!
+
+**Thoughts**:  I am really glad I somehow finish the challenge. I'm better than before through this challenge. And I will be better in the future. Thank you guys for your support, love, and feedback! More challenges to come! 
+
+**Link(s) to work**: [Veterinary Website](https://bitbucket.org/russelsantos/vets-vue/branch/dev)

@@ -302,3 +302,6 @@ I add some validation to the appointments component so that you cannot add an ap
 
 ### R1D99
 Here we are to the final step that started in one step. Today I start making the week-view for my appointment component. I created the data and variables needed so that I can display the day of the week for every appointment.
+
+### R1D100
+Thank you, Jesus! Finally I finished the challenge and I built the veterenary website. Not so great but I think it's not bad for almost just an hour a day. Still, there's a lot to do in this project and there's a lot to learn. Thank you, everyone!!!
